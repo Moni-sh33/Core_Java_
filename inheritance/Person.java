@@ -1,4 +1,4 @@
-package com.tnsif.inheritance;
+package com.inheritance;
 
 public class Person {
 	private String name;
