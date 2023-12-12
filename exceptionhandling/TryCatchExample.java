@@ -1,4 +1,4 @@
-package com.tnsif.exceptionhandling;
+package com.exceptionhandling;
 public class TryCatchExample {
     static  void performDivision(int x, int y) {
         System.out.println("I am in method");
