@@ -1,5 +1,5 @@
 //Program to demonstrate method overloading  - Compile Time Polymorphism
-package com.tnsif.polymorphism.overloading;
+package com.polymorphism.overloading;
 
 public class MethodOverloading {
 
