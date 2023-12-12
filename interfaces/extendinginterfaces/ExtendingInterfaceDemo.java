@@ -1,5 +1,5 @@
 //multiple inheritance - 
-package com.tnsif.interfaces.extendinginterfaces;
+package com.interfaces.extendinginterfaces;
 
 public class ExtendingInterfaceDemo implements ChildInterface {
 	// Override ChildInterface method
