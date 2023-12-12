@@ -1,4 +1,4 @@
-package com.tnsif.langpackage;
+package com.langpackage;
 
 public class StringBufferDemo {
 	public static void main(String args[]) {
