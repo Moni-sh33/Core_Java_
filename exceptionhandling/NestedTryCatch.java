@@ -1,4 +1,4 @@
-package com.tnsif.exceptionhandling;
+package com.exceptionhandling;
 
 public class NestedTryCatch {
 
