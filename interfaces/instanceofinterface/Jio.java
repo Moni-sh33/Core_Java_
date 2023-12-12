@@ -1,5 +1,5 @@
 //Program to define concrete class that implements the Phone interface.
-package com.tnsif.interfaces.instanceofinterface;
+package com.interfaces.instanceofinterface;
 
 public class Jio implements Phone {
 
