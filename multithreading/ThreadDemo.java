@@ -1,4 +1,4 @@
-package com.tnsif.multithreading;
+package com.multithreading;
 
 public class ThreadDemo {
 public static void main(String args[]) {
