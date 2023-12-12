@@ -1,5 +1,5 @@
 //Program to define Phone interface
-package com.tnsif.interfaces.instanceofinterface;
+package com.interfaces.instanceofinterface;
 
 public interface Phone {
 	void call();
