@@ -1,5 +1,5 @@
 //Main class for Bank application
-package com.tnsif.interfaces.implementinginterfaces;
+package com.interfaces.implementinginterfaces;
 
 public class BankApplication {
  public static void main(String[] args) {
