@@ -1,4 +1,4 @@
-package com.tnsif.exceptionhandling;
+package com.exceptionhandling;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
