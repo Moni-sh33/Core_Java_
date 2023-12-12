@@ -1,5 +1,5 @@
 //InterfaceOne declaration
-package com.tnsif.interfaces.extendinginterfaces;
+package com.interfaces.extendinginterfaces;
 
 interface InterfaceOne{  
   void print();  
