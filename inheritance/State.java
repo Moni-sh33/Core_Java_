@@ -1,4 +1,4 @@
-package com.tnsif.inheritance;
+package com.inheritance;
 
 public class State extends Country {
 	private String stateName;
