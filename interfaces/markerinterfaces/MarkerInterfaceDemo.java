@@ -1,5 +1,5 @@
 // Usage of the marker interface
-package com.tnsif.interfaces.markerinterfaces;
+package com.interfaces.markerinterfaces;
 
 public class MarkerInterfaceDemo {
 
