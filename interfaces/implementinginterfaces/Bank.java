@@ -1,5 +1,5 @@
 //Bank interface
-package com.tnsif.interfaces.implementinginterfaces;
+package com.interfaces.implementinginterfaces;
 
 public interface Bank {
  double MIN_BALANCE = 1000;
